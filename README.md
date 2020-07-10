@@ -1,4 +1,13 @@
-### Hi there 👋
+# Francis Masha—@mashafrancis
+
+:wave: Hey! I'm a software engineer working on [Almond Hydroponics](https://github.com/almond-hydroponics) an end to end IoT solution focusing on improving on farming systems. 
+
+Previously, I was working at [Andela](https://github.com/andela) as a software enginner on different contract projects as a frontend engineer.
+
+### :speech_balloon: Get in touch
+- Linkedin: https://www.linkedin.com/in/francis-masha/
+- Twitter: https://twitter.com/MashaFrancis
+
 
 <!--
 **mashafrancis/mashafrancis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
