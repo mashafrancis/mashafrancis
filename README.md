@@ -1,6 +1,6 @@
 # Francis Masha—@mashafrancis
 
-:wave: Hey! I'm a software engineer working on [Almond Hydroponics](https://github.com/almond-hydroponics) an end to end IoT solution focusing on improving on farming systems. 
+:wave: Hey! I'm a Javascript (React and NodeJS) and C++ developer.
 
 My areas of interest are: 
 - JavaScript infrastructure: tooling, frameworks and libraries
@@ -9,7 +9,6 @@ My areas of interest are:
 
 ### :speech_balloon: Get in touch
 - Linkedin: https://www.linkedin.com/in/francis-masha/
-- Twitter: https://twitter.com/MashaFrancis
 
 
 <!--
