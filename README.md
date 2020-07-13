@@ -2,7 +2,10 @@
 
 :wave: Hey! I'm a software engineer working on [Almond Hydroponics](https://github.com/almond-hydroponics) an end to end IoT solution focusing on improving on farming systems. 
 
-Previously, I was working at [Andela](https://github.com/andela) as a software enginner on different contract projects as a frontend engineer.
+My areas of interest are: 
+- JavaScript infrastructure: tooling, frameworks and libraries
+- Design Systems and CSS architecture
+- Leadership and mentorship roles
 
 ### :speech_balloon: Get in touch
 - Linkedin: https://www.linkedin.com/in/francis-masha/
