@@ -7,6 +7,16 @@
 - 👯 I’m looking to collaborate on [Curry Blog](https://github.com/mashafrancis/curry)
 - 💬 Ask me about anything [here](https://github.com/mashafrancis/mashafrancis/issues)
 
+### Connect with me:
+
+[<img align="left" alt="mashafrancis.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](website)
+[<img align="left" alt="mashafrancis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](twitter)
+[<img align="left" alt="mashafrancis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/francis-masha/)
+[<img align="left" alt="mashafrancis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](instagram)
+
+<br />
+<br />
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -36,10 +46,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashafrancis&hide=css&theme=radical&layout=compact" />
 </a>
-
----
-### :speech_balloon: Get in touch
-- Linkedin: https://www.linkedin.com/in/francis-masha/
 
 
 <!--
