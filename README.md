@@ -7,6 +7,13 @@ My areas of interest are:
 - Design Systems and CSS architecture
 - Leadership and mentorship roles
 
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mashafrancis&show_icons=true&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashafrancis&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 ### :speech_balloon: Get in touch
 - Linkedin: https://www.linkedin.com/in/francis-masha/
 
