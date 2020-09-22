@@ -3,8 +3,7 @@
 :wave: Hey! I'm a Javascript (React and NodeJS) and C++ developer.
 
 - 🔭 I’m currently working on my project [Almond](https://github.com/almond-hydroponics/almond-re)
-- 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Curry Blog](https://github.com/mashafrancis/curry)
+- 🌱 I’m currently learning React Native & Typescript
 - 💬 Ask me about anything [here](https://github.com/mashafrancis/mashafrancis/issues)
 
 ### Connect with me:
