@@ -2,16 +2,10 @@
 
 :wave: Hey! I'm a Javascript (React and NodeJS) and C++ developer.
 
-- 🔭 I’m currently working on my project [Almond](https://github.com/almond-hydroponics/almond-re)
-- 🌱 I’m currently learning React Native & Typescript
-- 💬 Ask me about anything [here](https://github.com/mashafrancis/mashafrancis/issues)
-
 ### Connect with me:
 
-[<img align="left" alt="mashafrancis.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](website)
-[<img align="left" alt="mashafrancis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](twitter)
+[<img align="left" alt="francismasha.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](website)
 [<img align="left" alt="mashafrancis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/francis-masha/)
-[<img align="left" alt="mashafrancis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](instagram)
 
 <br />
 <br />
